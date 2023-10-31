@@ -1,6 +1,6 @@
 # MineSweeper
 
-## I misnamed the proejct
+
 
 # What is the program?
 * Uses Java to create a Minesweeper game that's playable in the terminal
